@@ -37,8 +37,9 @@ Layout: Position of alert. See NotyJS documentation.
 
 Don't worry, it's easy to replace to Javascript. 
 
-## Some tipps:
+## Some usefull things:
 1st: If you want to use sound, I really recommended Howler.js, it's very easy to use.
+
 2st: If you want to change the theme, open index.html file, and change link src to your theme. NotyJS comes with many many theme, but you can create your theme easily.
 
 
