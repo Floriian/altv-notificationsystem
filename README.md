@@ -10,7 +10,7 @@ import "/notify/client.mjs";
 ```
 
 ## Using in CSharp
-Add this function to your C# project. 
+Add theese lines to your C# project. 
 DONT FORGET: Replace PlayerSystem to your player system class name, or use the default Alt:V player system class name.
 ```C#
         public static void SendNotificationToPlayer(PlayerSystem player, string message, string notytype, int time = 5000, string layout = "topRight")
@@ -47,3 +47,5 @@ Don't worry, it's easy to replace to Javascript.
 I don't know. But easy to fix it. 
 
 "It's a feature, not a bug."
+
+Maybe this description has some gramattical problems, sorry english is not my native language.
