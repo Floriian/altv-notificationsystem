@@ -7,7 +7,8 @@ Second, add a this following line to your clientside main js file:
 ```javascript
 import "/notify/client.mjs";
 ```
-##Using in CSharp
+
+## Using in CSharp
 Add this function to your C# project. DONT FORGET: Replace PlayerSystem to your player system class name, or use the default Alt:V player system class name.
 ```C#
         public static void SendNotificationToPlayer(PlayerSystem player, string message, string notytype, int time = 5000, string layout = "topRight")
