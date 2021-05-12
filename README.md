@@ -1,6 +1,6 @@
 ### Alt:V Notification System based on NotyJS
 Hi, I write this system 2 months ago for a server, but this project has been ended. I will maybe publish some system from this server, if I think it's usefull.
-
+Inspired by an RageMP resource. 
 ## Install
 First, add "notify" folder into your client folder.
 Second, add a this following line to your clientside main js file:
@@ -36,6 +36,6 @@ Don't worry, it's easy to replace to Javascript.
 2st: If you want to change the theme, open index.html file, and change link src to your theme. NotyJS comes with many many theme, but you can create your theme easily.
 
 
-###Bugs:
+### Bugs:
 I don't know. But easy to fix it. 
 "It's a feature, not a bug."
