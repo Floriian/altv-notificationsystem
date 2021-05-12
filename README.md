@@ -10,7 +10,8 @@ import "/notify/client.mjs";
 ```
 
 ## Using in CSharp
-Add this function to your C# project. DONT FORGET: Replace PlayerSystem to your player system class name, or use the default Alt:V player system class name.
+Add this function to your C# project. 
+DONT FORGET: Replace PlayerSystem to your player system class name, or use the default Alt:V player system class name.
 ```C#
         public static void SendNotificationToPlayer(PlayerSystem player, string message, string notytype, int time = 5000, string layout = "topRight")
         {
@@ -25,9 +26,13 @@ Add this function to your C# project. DONT FORGET: Replace PlayerSystem to your 
         }
 ```
 Arguments: text, type, time, layout. 
+
 Text: Notification text. Like: Wrong username/password, You dont have permission etc.
+
 Type: Type of alert. See NotyJS documentation.
+
 Time: Time in ms
+
 Layout: Position of alert. See NotyJS documentation.
 
 Don't worry, it's easy to replace to Javascript. 
@@ -39,4 +44,5 @@ Don't worry, it's easy to replace to Javascript.
 
 ### Bugs:
 I don't know. But easy to fix it. 
+
 "It's a feature, not a bug."
