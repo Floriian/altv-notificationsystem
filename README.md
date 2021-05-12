@@ -14,7 +14,7 @@ Add this function to your C# project. DONT FORGET: Replace PlayerSystem to your 
         {
             player.Emit("xpert:notification:send", message,notytype ,time, layout);
         }
-		        public static void SendNotificationMessageToAll(string message, string notytype, int time = 5000, string layout = "topRight")
+	public static void SendNotificationMessageToAll(string message, string notytype, int time = 5000, string layout = "topRight")
         {
             foreach (PlayerSystem target in Alt.GetAllPlayers())
             {
