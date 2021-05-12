@@ -42,8 +42,6 @@ Don't worry, it's easy to replace to Javascript.
 
 2st: If you want to change the theme, open index.html file, and change link src to your theme. NotyJS comes with many many theme, but you can create your theme easily.
 
-3rd: 
-
 
 ### Bugs:
 I don't know. But easy to fix it. 
