@@ -1,5 +1,6 @@
 ### Alt:V Notification System based on NotyJS
 ![Faster](https://i.imgur.com/61FiahY.gif)
+(It's faster, love gifs and online converter.)
 Hi, I write this system 2 months ago for a server, but this project has been ended. I will maybe publish some system from this server, if I think it's usefull.
 
 Inspired by an RageMP resource. 
